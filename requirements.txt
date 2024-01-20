@@ -1,0 +1,6 @@
+# requirements for gnn_image_classification
+python = 3.9
+jupyterlab = 4.0.11
+torch = 2.1.2
+torchvision = 0.16.2
+torchaudio = 2.1.2
